@@ -18,4 +18,3 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origin
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
 </div>
 
-![Snake animation](https://github.com/AmandaCornelsen/AmandaCornelsen/blob/output/github-contribution-grid-snake.svg)
